@@ -1,0 +1,1 @@
+this folder is needed to store data being scrapped from amazon
